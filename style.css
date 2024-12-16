@@ -1,0 +1,23 @@
+* {
+    font-family: "Poppins", sans-serif;
+    /* overflow-x: hidden; */
+}
+#brandLogo img {
+    width: 120px;
+    height: 100px;
+}
+#brandLogo {
+    margin: 50px !important;
+}
+#hero {
+    margin: 90px 0 0 0 !important;
+}
+#card img {
+    width: 220px;
+    height: 230px;
+}
+#pinTxt h1 {
+    font-size: 40vw;
+    text-transform: uppercase;
+    /* overflow-x: hidden; */
+}
